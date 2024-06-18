@@ -85,3 +85,10 @@ width: 60%;
     align-items: center;
     margin: 0 10em ;
 }
+.secundario-botao{
+   display: inline-block; 
+   margin-top: 1em;
+}
+.container-descrição{
+    padding: 2em;
+}
